@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  HGCategoryKit: db9e2cb90b6b9e61b81b0d450d5fcfdb8fc18fb2
+  HGCategoryKit: b8346f112cf64466d5359a5d819c443ddfbd3049
 
 PODFILE CHECKSUM: 9a18297ee32349b8f32a6dacfbc8c782b7322e8a
 
